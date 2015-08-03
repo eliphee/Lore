@@ -7,3 +7,5 @@ c:\users\ghost\documents\visual studio 2012\Projects\Lore\Lore\obj\Debug\Lore.Pr
 c:\users\ghost\documents\visual studio 2012\Projects\Lore\Lore\obj\Debug\Lore.csproj.GenerateResource.Cache
 c:\users\ghost\documents\visual studio 2012\Projects\Lore\Lore\obj\Debug\Lore.exe
 c:\users\ghost\documents\visual studio 2012\Projects\Lore\Lore\obj\Debug\Lore.pdb
+G:\Proggen\Lore\Lore\bin\Debug\Lore.exe.config
+G:\Proggen\Lore\Lore\obj\Debug\Lore.exe
