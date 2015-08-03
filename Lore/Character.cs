@@ -36,7 +36,7 @@ namespace Lore
         public bool GetDamage(int amountDMG)
         {
             _life = _life - amountDMG;
-            if (_life > 1)
+            if (_life > 0)
             {
                 return true;
             }
